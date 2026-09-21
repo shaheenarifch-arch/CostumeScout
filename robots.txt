@@ -1,8 +1,0 @@
-User-agent: *
-Allow: / + /guides/ /costumes/ /halloween/ /wigs/ /masks/ /makeup/ /props/ /party/ /handbags/ /purses/ /clutches/
-Disallow: /api/ /admin/ /*?*clickref= /*?*awc= /out/
-User-agent: GPTBot / Google-Extended / CCBot / anthropic-ai
-Allow: /
-Sitemap: https://costumescout.store/sitemap.xml
-Sitemap: https://costumescout.store/guides/sitemap.xml
-Host: https://costumescout.store
