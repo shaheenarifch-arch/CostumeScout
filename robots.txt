@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://costumescout.store/sitemap.xml
