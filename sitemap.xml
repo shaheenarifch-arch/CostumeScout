@@ -1,14 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://costumescout.store/</loc></url>
-<url><loc>https://costumescout.store/costumes/</loc></url>
-<url><loc>https://costumescout.store/halloween/</loc></url>
-<url><loc>https://costumescout.store/cosplay/</loc></url>
-<url><loc>https://costumescout.store/wigs/</loc></url>
-<url><loc>https://costumescout.store/masks/</loc></url>
-<url><loc>https://costumescout.store/makeup/</loc></url>
-<url><loc>https://costumescout.store/props/</loc></url>
-<url><loc>https://costumescout.store/party/</loc></url>
-<url><loc>https://costumescout.store/retailers/</loc></url>
-<url><loc>https://costumescout.store/contact/</loc></url>
-<url><loc>https://costumescout.store/guides/</loc></url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://costumescout.store/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/about/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/contact/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/faq/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/privacy/</loc>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/terms/</loc>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/affiliate-disclosure/</loc>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/costumes/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/halloween/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/cosplay/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/wigs/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/masks/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/makeup/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/props/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/party/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/guides/</loc>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://costumescout.store/retailers/</loc>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
