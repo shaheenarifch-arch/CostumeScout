@@ -1,0 +1,19 @@
+Place these files in the repository root next to index.html:
+hero.webp
+costumes.webp
+halloween.webp
+cosplay.webp
+wigs.webp
+masks.webp
+makeup.webp
+props.webp
+party.webp
+handbags.webp
+purses.webp
+clutches.webp
+couples.webp
+kids.webp
+pets.webp
+vintage.webp
+
+The HTML uses root-relative paths such as /hero.webp, so GitHub Pages will load each image from the repository root.
